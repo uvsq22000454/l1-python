@@ -1,2 +1,3 @@
 msg = "hello world"
-print(msg.capitalize())
+print(msg.capitalize())azer
+
